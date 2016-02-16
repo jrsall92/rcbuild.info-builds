@@ -1,9 +1,9 @@
 {
   "config": {
-    "frame": "ImpulseRC/Warpquad-230mm",
+    "frame": "UnknownManufacturer/impulserc/MotoF3-Frame-Kit----230mm--(4x12mm-Arms)",
     "esc": "RCTimer/Mini-ESC30A",
     "motor": "Sunnysky/X2208-2600kv",
-    "fc": "MotoLab/MotoF3",
+    "fc": "",
     "prop": [
       "Gemfan/6x4.5-FG-MR",
       "Gemfan/6x4.5-FG-MR"
