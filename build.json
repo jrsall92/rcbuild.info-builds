@@ -1,18 +1,24 @@
-{"version": 1,
- "config": {
-    "frame" : "",
-    "arm" : "",
-    "fc" : "",
-    "osd" : "",
-    "receiver" : "",
-    "flightcam" : "",
-    "hqcam" : "",
-    "esc" : "",
-    "motor" : "",
-    "videotx" : "",
-    "blackbox" : "",
-    "voltagereg" : "",
-    "prop" : [],
-    "battery" : []
-  }
+{
+  "config": {
+    "frame": "ImpulseRC/Warpquad-230mm",
+    "esc": "RCTimer/Mini-ESC30A",
+    "motor": "Sunnysky/X2208-2600kv",
+    "fc": "MotoLab/MotoF3",
+    "prop": [
+      "Gemfan/6x4.5-FG-MR",
+      "Gemfan/6x4.5-FG-MR"
+    ],
+    "arm": "ImpulseRC/String-Theory----4x12mm-Arm-(for-230mm-Frame)",
+    "battery": [
+      "Tattu/4S-1300mAh-75C-Racing-Lipo-Battery-Pack"
+    ],
+    "osd": "",
+    "receiver": "FrSky/D8R-II-Plus",
+    "flightcam": "",
+    "hqcam": "",
+    "videotx": "",
+    "blackbox": "",
+    "voltagereg": ""
+  },
+  "version": 1
 }
