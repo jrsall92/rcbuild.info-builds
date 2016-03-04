@@ -1,19 +1,22 @@
 {
   "config": {
     "frame": "UnknownManufacturer/impulserc/MotoF3-Frame-Kit----230mm--(4x12mm-Arms)",
-    "esc": "RCTimer/Mini-ESC30A",
-    "motor": "Sunnysky/X2208-2600kv",
+    "esc": "Favorite/LittleBee-20A",
+    "motor": "RCX/H2205-2350KV",
     "fc": "",
     "prop": [
       "Gemfan/6x4.5-FG-MR",
-      "Gemfan/6x4.5-FG-MR"
+      "Gemfan/6x4.5-FG-MR",
+      "Gemfan/5x4.5-FG-BN"
     ],
     "arm": "ImpulseRC/String-Theory----4x12mm-Arm-(for-230mm-Frame)",
     "battery": [
-      "Tattu/4S-1300mAh-75C-Racing-Lipo-Battery-Pack"
+      "Tattu/4S-1300mAh-75C-Racing-Lipo-Battery-Pack",
+      "Thunder-Power/1800mAh-4s-70c-Lipo-Battery",
+      "Lumenier/1800mAh-4s-75c-Lipo-Battery-(XT60)"
     ],
     "osd": "",
-    "receiver": "FrSky/D8R-II-Plus",
+    "receiver": "FrSky/X6R",
     "flightcam": "",
     "hqcam": "",
     "videotx": "",
