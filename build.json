@@ -3,7 +3,7 @@
     "frame": "UnknownManufacturer/impulserc/MotoF3-Frame-Kit----230mm--(4x12mm-Arms)",
     "esc": "Favorite/LittleBee-20A",
     "motor": "RCX/H2205-2350KV",
-    "fc": "",
+    "fc": "MotoLab/MotoF3",
     "prop": [
       "Gemfan/6x4.5-FG-MR",
       "Gemfan/6x4.5-FG-MR",
